@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-flasher/flasher-toastr-symfony": "^2.0",
+        "php-flasher/flasher-toastr-laravel": "^2.0",
+        "yoeunes/toastr": "^3.0"
+    }
+}
